@@ -12,5 +12,12 @@ I'm Ashutosh. A Full Stack Web Developer & Andoid/iOS App Developer from Bangalo
      <a href="https://wa.me/919632302357" target="_blank"><img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 <img src="https://badges.pufler.dev/visits/mornville/mornville?style=for-the-badge">
 
-  <br>  </samp>
+  <br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mornville&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mornville&hide=CSS,HTML&theme=radical">
+</p>
+
+  
+  </samp>
 </p>
