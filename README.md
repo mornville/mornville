@@ -14,7 +14,7 @@ I'm Ashutosh. A Full Stack Web Developer & Andoid/iOS App Developer from Bangalo
 
   <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=mornville&show_icons=true&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=mornville&show_icons=true&theme=radical&line_height=34">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mornville&hide=CSS,HTML&theme=radical">
 </p>
 
