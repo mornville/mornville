@@ -4,7 +4,7 @@
   <br>
   <br>
   <samp>
-I'm Ashutosh. A Full Stack Web Developer & Andoid/iOS App Developer from Bangalore, India. <a href="https://docs.google.com/document/d/1zlkd2ieynKUliHmYSsaFqP48nYpS8_gX1qBmz9wtyvM/edit?usp=sharing" target="_blank">  Download Resume   </a>
+I'm Ashutosh. A Full Stack Software Engineer from Bangalore, India. <a href="https://docs.google.com/document/d/1zlkd2ieynKUliHmYSsaFqP48nYpS8_gX1qBmz9wtyvM/edit?usp=sharing" target="_blank">  Download Resume   </a>
      <br><br><b>THINK CREATE DEPLOY.</b><br><br>
 <a href="https://www.linkedin.com/in/mornville/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/_ashu.jha/" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" ></a>
