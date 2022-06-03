@@ -1,6 +1,5 @@
 
 <p align="center">
-  <img src="https://github.com/mornville/Pokedex_ML/blob/master/e1.gif" width="100px">
   <br>
   <br>
   <samp>
